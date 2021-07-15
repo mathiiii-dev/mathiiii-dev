@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+ 👨‍🎓 Actually learning Symfony and javascript (Nuxt.js)
+ 
+ ❤ PHP enthousiast
+ 
+ I'm looking in the future to work in the US 🙌
+ 
+
 <!--
 **mathiiii-dev/mathiiii-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
