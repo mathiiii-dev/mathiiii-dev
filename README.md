@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 👨‍🎓 Actually learning Symfony and Javascript (Nuxt.JS)
+ 👨‍🎓 Actually learning Symfony and Javascript (Nuxt.JS / Next.JS)
  
  ❤ PHP enthousiast
  
